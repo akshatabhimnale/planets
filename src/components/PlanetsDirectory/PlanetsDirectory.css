@@ -1,0 +1,23 @@
+.app {
+  margin: 0 auto;
+  width: 80%;
+}
+.planets-directory {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.planets {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.planets .planet-card {
+  margin: 0.5rem;
+}
+
+.pagination-controls {
+  margin: 1rem 0;
+}
